@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raflyroyan.github.io"><img src="https://img.shields.io/badge/Portfolio-raflyroyan.github.io-0f172a?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
+  <a href="https://raflyroyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-raflyroyan.netlify.app-0f172a?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=RaflyRoyan&style=for-the-badge&color=0f172a&label=Profile+views" alt="Profile views">
 </p>
 
@@ -68,7 +68,7 @@
 
 ## 🏛️ Project profesional
 
-> Repo-repo ini private. Detail lengkap ada di [portfolio](https://raflyroyan.github.io).
+> Repo-repo ini private. Detail lengkap ada di [portfolio](https://raflyroyan.netlify.app).
 
 | Project | Deskripsi | Stack |
 |---|---|---|
@@ -108,5 +108,5 @@
 
 ## 📫 Kontak
 
-- 🌐 Portfolio: [raflyroyan.github.io](https://raflyroyan.github.io)
+- 🌐 Portfolio: [raflyroyan.netlify.app](https://raflyroyan.netlify.app)
 - 💼 GitHub: [@RaflyRoyan](https://github.com/RaflyRoyan)
