@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://raflyroyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-raflyroyan.netlify.app-0f172a?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=RaflyRoyan&style=for-the-badge&color=0f172a&label=Profile+views" alt="Profile views">
 </p>
 
 ---
