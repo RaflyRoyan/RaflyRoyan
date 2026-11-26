@@ -65,24 +65,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🏛️ Project profesional
-
-> Repo-repo ini private. Detail lengkap ada di [portfolio](https://raflyroyan.netlify.app).
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| **MonPD Reborn V2** | Platform monitoring pendapatan daerah (web + API): realisasi pajak, pengawasan parkir/CCTV live, reklame, PBJT, dan PBB. | .NET 8, Oracle, DevExtreme, ECharts, SSE |
-| **SurabayaTax WP** | Portal wajib pajak + portal petugas lapangan: BAP reklame/hiburan, penagihan tunggakan, pembayaran VA/QRIS real-time. | ASP.NET Core MVC, Oracle, SSE |
-| **Surabaya Tax Next Gen** | Sistem administrasi pajak daerah: back-office, API wajib pajak, API mobile petugas, dan workflow approval berjenjang. | .NET 8, SignalR, FCM, GitLab CI |
-| **Background Service MonPD** | 19 worker service yang menyinkronkan data pajak, pendapatan, dan CCTV parkir dari banyak database dan API vendor. | .NET 8 Worker, EF Core, Dapper |
-| **MonPDSync** | Tax Data Sync Center: 13 jenis sinkronisasi terjadwal dengan upsert massal dan transaksi aman. | .NET 8 WinForms, Oracle |
-| **SurabayaTax BackOffice** | Pencarian objek reklame + foto survei, workflow permohonan, rekonsiliasi parkir digital. | ASP.NET Core MVC, Oracle |
-| **Parkir Digital API** | REST API untuk aplikasi mobile parkir digital: ringkasan objek per UPTB, histori transaksi, dashboard mingguan. | ASP.NET Core Web API, JWT |
-| **Sistem Bendahara Penerimaan** | Verifikasi, rekonsiliasi mutasi bank, split parkir digital QRIS, BAP reklame dengan Virtual Account. | ASP.NET Core MVC, VA/QRIS |
-| **Migrasi Reklame** | Tool migrasi 15+ jenis data pajak reklame dari Oracle legacy ke sistem baru, idempoten dan aman diulang. | .NET 8, Dapper, PL/SQL |
-| **LandingPage Reklame** | Portal permohonan pajak reklame online: form permanen/insidentil, monitoring proses, kalkulator, OTP email. | ASP.NET Core MVC, JWT |
-| **Gate Safety Security System** | Migrasi sistem keamanan gerbang & manajemen tamu ke .NET 10 dengan pola BFF dan portal induksi K3. | .NET 10, PostgreSQL, Docker |
-
 ## 🚀 Project pribadi
 
 | Project | Deskripsi | Stack |
